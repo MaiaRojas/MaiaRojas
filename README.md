@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, I am Maia👋
+- 🌱 I’m currently learning Vue.js
+
+```js
+const maia = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Storybook, Styled-Components],
+ challenge: "I am doing the #100DaysOfCode challenge focused on react"
+}
+```
+ Yo can find me:
+ 
+ - [Twitter](https://twitter.com/MaiaRT46)
 
 <!--
 **MaiaRojas/MaiaRojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
