@@ -1,5 +1,5 @@
 ### Hi, I am Maia👋
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Python
 
 ```js
 const maia = {
